@@ -1,0 +1,7 @@
+Reference	Part Name	Value	Quantity	Manufacturer	Part Number	Unit Cost	Total Cost	Link
+U1	ESP32-C3 SuperMini		1	Generic	ESP32-C3-SuperMini	6	6	https://lonelybinary.com/en-us/products/c3s
+U2	OLED Display	"SSD1306 0.91"""	1	Generic	SSD1306	3	3	https://shorturl.at/MK3HG
+SW1	Push Button	6mm Tactile	1	Generic	SW_PUSH_6mm	0.15	0.15	https://www.robotpark.com/IC-200-4-Pin-6x6x1mm-Tactile-Push-Button-Switch
+SW2	Push Button	6mm Tactile	1	Generic	SW_PUSH_6mm	0.15	0.15	https://www.robotpark.com/IC-200-4-Pin-6x6x1mm-Tactile-Push-Button-Switch
+SW3	Push Button	6mm Tactile	1	Generic	SW_PUSH_6mm	0.15	0.15	https://www.robotpark.com/IC-200-4-Pin-6x6x1mm-Tactile-Push-Button-Switch
+TOTAL							9.45	
